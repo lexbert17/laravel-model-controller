@@ -1,5 +1,17 @@
 @import "~bootstrap/scss/bootstrap";
 
 body {
-    background-color: lightgreen;
+    background-color: black;
+}
+h1{
+    color: whitesmoke;
+}
+
+img{
+    max-width: 100%;
+    aspect-ratio: 1;
+}
+.my_col{
+    align-self: center;
+    
 }
